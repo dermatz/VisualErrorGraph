@@ -10,7 +10,7 @@
       "email": "m.elle@dermatz.de"
     }
   ],
-  "icon": "resources/logo.png",
+  "icon": "resources/logo.svg",
   "license": "GNU General Public License v3.0",
   "homepage": "https://github.com/dermatz/VisualErrorGraph#readme",
   "repository": {
